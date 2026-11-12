@@ -62,7 +62,7 @@ python3 "script_name.py"
 
 #### Background
 
-The Random File Selector streamlines the selection of random `.cpc` files for creating random replicates. It is designed to improve the efficiency and objectivity of data sampling in coral reef studies. Randomization helps ensure that files are selected without human bias and that the sample is representative of the full dataset, improving the validity and reliability of later statistical analyses.
+The Random File Selector streamlines the selection of random `.cpc` files for creating random replicates. It is designed to improve the efficiency and objectivity of data sampling in coral reef studies. Randomization helps ensure that files are selected without human bias, improving the validity and reliability of later statistical analyses.
 
 By automating this process, the tool helps samples reflect the true variability within the dataset—an important requirement for robust ecological assessments and unbiased comparisons. Its core function is to select a specified percentage of files randomly from a source directory and copy them to a target directory.
 
