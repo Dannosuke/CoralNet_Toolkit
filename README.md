@@ -1,4 +1,4 @@
-# Coral Statistics Toolkit
+# CoralNet Toolkit
 
 Welcome to the Coral Statistics Toolkit, a collection of Python tools designed to assist in analyzing coral cover data from .cpc files. This toolkit provides a range of functionalities, including statistical analysis of coral cover, diversity indices, and random file selection, all in an easy-to-use, GUI-based format.
 
